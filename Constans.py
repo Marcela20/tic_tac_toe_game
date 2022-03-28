@@ -10,9 +10,9 @@ WIN_WIDTH = 640
 WIN_HEIGHT = 680
 
 
-HEART = pygame.image.load(os.path.join("serce.png"))
-THUNDER = pygame.image.load(os.path.join("błyskawica.png"))
-EMPTY = pygame.image.load(os.path.join("puste.png"))
+HEART = pygame.image.load(os.path.join("heart.png"))
+THUNDER = pygame.image.load(os.path.join("lightninig.png"))
+EMPTY = pygame.image.load(os.path.join("empty.png"))
 
 
 
